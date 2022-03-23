@@ -1,1 +1,1 @@
-runspec -config=Example-linux-ia64-gcc.cfg -size=ref -r 4 -tune=base -noreportable -o text,screen,pdf -I -iterations=3 all
+runspec -config=test.cfg -size=ref -r 4 -tune=base -noreportable -o text,screen,pdf -I -iterations=3 all
